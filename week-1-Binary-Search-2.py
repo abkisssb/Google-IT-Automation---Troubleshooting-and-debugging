@@ -1,5 +1,5 @@
 '''
-Question 5
+
 The best_search function compares linear_search and binary_search functions, to locate a key in the list,
 and returns how many steps each method took, and which one is the best for that situation. The list does
 not need to be sorted, as the binary_search function sorts it before proceeding (and uses one step to do so). 
