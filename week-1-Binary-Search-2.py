@@ -4,8 +4,8 @@ The best_search function compares linear_search and binary_search functions, to 
 and returns how many steps each method took, and which one is the best for that situation. The list does
 not need to be sorted, as the binary_search function sorts it before proceeding (and uses one step to do so). 
 Here, linear_search and binary_search functions both return the number of steps that it took to either locate the key,
-or determine that it's not in the list. If the number of steps is the same for both methods (including the extra step for sorting in binary_search),
-then the result is a tie. Fill in the blanks to make this work.
+or determine that it's not in the list. If the number of steps is the same for both methods (including the extra step 
+for sorting in binary_search),then the result is a tie. Fill in the blanks to make this work.
 '''
 
 def linear_search(list, key):
